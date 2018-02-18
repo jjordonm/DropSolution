@@ -1,0 +1,17 @@
+
+{
+  "name": "Water",
+  "description": "Water",
+  "version": "1.0",
+  "manifest_version": 2,
+  "permissions": [
+    "idle",
+    "tabs"
+  ],
+
+  "background" : {
+    "scripts": ["background.js"]
+  }
+
+}
+
